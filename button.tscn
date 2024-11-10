@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://btrtlrb04j6wk"]
+
+[ext_resource type="Texture2D" uid="uid://dqb1ky4m4m1pr" path="res://0.png" id="1_4esho"]
+[ext_resource type="Script" path="res://button.gd" id="1_b4yge"]
+
+[node name="button" type="Sprite2D"]
+texture = ExtResource("1_4esho")
+script = ExtResource("1_b4yge")

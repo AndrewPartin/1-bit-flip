@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dqb1ky4m4m1pr"
-path="res://.godot/imported/0.png-30cc601930bfed815371fe5acba60898.ctex"
+uid="uid://b4y57gbx4rjpm"
+path="res://.godot/imported/GREEN_LINE-1.png.png-34d5b55ecc010db6d424c978ca5835ef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://0.png"
-dest_files=["res://.godot/imported/0.png-30cc601930bfed815371fe5acba60898.ctex"]
+source_file="res://GREEN_LINE-1.png.png"
+dest_files=["res://.godot/imported/GREEN_LINE-1.png.png-34d5b55ecc010db6d424c978ca5835ef.ctex"]
 
 [params]
 
