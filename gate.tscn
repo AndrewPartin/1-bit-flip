@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://bee2yvpjn5r4a"]
+
+[ext_resource type="Texture2D" uid="uid://d0jcdrji75a5d" path="res://and.png" id="1_osvsj"]
+[ext_resource type="Script" path="res://gate.gd" id="2_ftwan"]
+
+[node name="gate" type="Sprite2D"]
+texture = ExtResource("1_osvsj")
+script = ExtResource("2_ftwan")
