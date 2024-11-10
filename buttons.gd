@@ -12,9 +12,9 @@ func _process(delta: float) -> void:
 	pass
 
 func _input(event):
-	for i in range(8):
+	for i in range(8):                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 		if event.is_action_pressed("toggle_"+str(i+1)):
 			var button_mode = get_node(str(i+1))
-			button_mode.set("button_pressed", !button_mode.get("button_pressed"))
+			button_mode.toggle()
 	
 	
