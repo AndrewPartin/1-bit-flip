@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cglbw44jx844p"
-path="res://.godot/imported/NAND-1.png.png-fb9d73427eb087101498032404fa12ed.ctex"
+uid="uid://cdaua0p2lm2yl"
+path="res://.godot/imported/ZERO-1.png.png-7636a76439395c9d568ba2cdd92555ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://NAND-1.png.png"
-dest_files=["res://.godot/imported/NAND-1.png.png-fb9d73427eb087101498032404fa12ed.ctex"]
+source_file="res://ZERO-1.png.png"
+dest_files=["res://.godot/imported/ZERO-1.png.png-7636a76439395c9d568ba2cdd92555ce.ctex"]
 
 [params]
 

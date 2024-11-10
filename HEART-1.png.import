@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cglbw44jx844p"
-path="res://.godot/imported/NAND-1.png.png-fb9d73427eb087101498032404fa12ed.ctex"
+uid="uid://cme3worhklgxl"
+path="res://.godot/imported/HEART-1.png-1bcbedfbec968662c76900ca52232390.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://NAND-1.png.png"
-dest_files=["res://.godot/imported/NAND-1.png.png-fb9d73427eb087101498032404fa12ed.ctex"]
+source_file="res://HEART-1.png"
+dest_files=["res://.godot/imported/HEART-1.png-1bcbedfbec968662c76900ca52232390.ctex"]
 
 [params]
 
