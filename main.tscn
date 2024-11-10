@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=3 uid="uid://cs4k2cy3rmlks"]
+[gd_scene load_steps=4 format=3 uid="uid://cs4k2cy3rmlks"]
 
 [ext_resource type="Script" path="res://buttons.gd" id="1_cmsnd"]
 [ext_resource type="PackedScene" uid="uid://btrtlrb04j6wk" path="res://button.tscn" id="2_gq02p"]
+[ext_resource type="PackedScene" uid="uid://bee2yvpjn5r4a" path="res://gate.tscn" id="3_ii7i5"]
 
 [node name="main" type="Node2D"]
 
@@ -32,9 +33,32 @@ position = Vector2(16, 208)
 [node name="8" parent="buttons" instance=ExtResource("2_gq02p")]
 position = Vector2(16, 240)
 
-[node name="RichTextLabel" type="RichTextLabel" parent="."]
+[node name="score" type="RichTextLabel" parent="."]
 offset_left = 384.0
 offset_top = 224.0
 offset_right = 448.0
 offset_bottom = 256.0
 text = "Score:"
+
+[node name="gates" type="Node2D" parent="."]
+
+[node name="1" parent="gates" instance=ExtResource("3_ii7i5")]
+position = Vector2(128, 32)
+
+[node name="2" parent="gates" instance=ExtResource("3_ii7i5")]
+position = Vector2(128, 96)
+
+[node name="3" parent="gates" instance=ExtResource("3_ii7i5")]
+position = Vector2(128, 160)
+
+[node name="4" parent="gates" instance=ExtResource("3_ii7i5")]
+position = Vector2(128, 224)
+
+[node name="5" parent="gates" instance=ExtResource("3_ii7i5")]
+position = Vector2(224, 64)
+
+[node name="6" parent="gates" instance=ExtResource("3_ii7i5")]
+position = Vector2(224, 192)
+
+[node name="7" parent="gates" instance=ExtResource("3_ii7i5")]
+position = Vector2(304, 128)
